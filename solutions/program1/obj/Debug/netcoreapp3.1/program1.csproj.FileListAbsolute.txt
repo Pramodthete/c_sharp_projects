@@ -1,0 +1,14 @@
+C:\c_sharp_projects\solutions\program1\bin\Debug\netcoreapp3.1\program1.exe
+C:\c_sharp_projects\solutions\program1\bin\Debug\netcoreapp3.1\program1.deps.json
+C:\c_sharp_projects\solutions\program1\bin\Debug\netcoreapp3.1\program1.runtimeconfig.json
+C:\c_sharp_projects\solutions\program1\bin\Debug\netcoreapp3.1\program1.runtimeconfig.dev.json
+C:\c_sharp_projects\solutions\program1\bin\Debug\netcoreapp3.1\program1.dll
+C:\c_sharp_projects\solutions\program1\bin\Debug\netcoreapp3.1\program1.pdb
+C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.AssemblyInfoInputs.cache
+C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.AssemblyInfo.cs
+C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.csproj.CoreCompileInputs.cache
+C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.sourcelink.json
+C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.dll
+C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.pdb
+C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.genruntimeconfig.cache
