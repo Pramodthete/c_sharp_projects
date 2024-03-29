@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\c_sharp_projects\\solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA70324F-A4A5-4C94-8CD3-192360D385AB}|program1\\program1.csproj|c:\\c_sharp_projects\\solutions\\program1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA70324F-A4A5-4C94-8CD3-192360D385AB}|program1\\program1.csproj|solutionrelative:program1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14C5C57D-B0ED-4BA3-916F-2C14A143459B}|operations\\operations.csproj|c:\\c_sharp_projects\\solutions\\operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C5C57D-B0ED-4BA3-916F-2C14A143459B}|operations\\operations.csproj|solutionrelative:operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69227D5F-3049-4F78-8B38-C92376265B35}|methods\\methods.csproj|c:\\c_sharp_projects\\solutions\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69227D5F-3049-4F78-8B38-C92376265B35}|methods\\methods.csproj|solutionrelative:methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0AC530-68FF-4757-A48F-7AEC429BBFF9}|basic_csharp\\basic_csharp.csproj|c:\\c_sharp_projects\\solutions\\basic_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0AC530-68FF-4757-A48F-7AEC429BBFF9}|basic_csharp\\basic_csharp.csproj|solutionrelative:basic_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c_sharp_projects\\solutions\\methods\\Program.cs",
+              "RelativeDocumentMoniker": "methods\\Program.cs",
+              "ToolTip": "C:\\c_sharp_projects\\solutions\\methods\\Program.cs",
+              "RelativeToolTip": "methods\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwCkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:34:20.342Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\c_sharp_projects\\solutions\\program1\\Program.cs",
-              "RelativeDocumentMoniker": "program1\\Program.cs",
-              "ToolTip": "C:\\c_sharp_projects\\solutions\\program1\\Program.cs",
-              "RelativeToolTip": "program1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "DocumentMoniker": "C:\\c_sharp_projects\\solutions\\operations\\Program.cs",
+              "RelativeDocumentMoniker": "operations\\Program.cs",
+              "ToolTip": "C:\\c_sharp_projects\\solutions\\operations\\Program.cs",
+              "RelativeToolTip": "operations\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBMAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T09:17:09.294Z",
+              "WhenOpened": "2024-03-29T10:18:44.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c_sharp_projects\\solutions\\basic_csharp\\Program.cs",
+              "RelativeDocumentMoniker": "basic_csharp\\Program.cs",
+              "ToolTip": "C:\\c_sharp_projects\\solutions\\basic_csharp\\Program.cs",
+              "RelativeToolTip": "basic_csharp\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwB4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:42:01.085Z",
               "EditorCaption": ""
             }
           ]
