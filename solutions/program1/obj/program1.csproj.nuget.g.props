@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> pramod
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
@@ -13,6 +16,7 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\DELL\.nuget\packages\" />
   </ItemGroup>
+<<<<<<< HEAD
 =======
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
@@ -29,4 +33,6 @@
     <SourceRoot Include="C:\Users\DELL\.nuget\packages\" />
   </ItemGroup>
 >>>>>>> 86ddc95c0e47f5baa89b640e385490d776a331cc
+=======
+>>>>>>> pramod
 </Project>

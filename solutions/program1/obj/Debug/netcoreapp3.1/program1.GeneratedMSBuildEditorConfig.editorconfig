@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> pramod
 is_global = true
 build_property.RootNamespace = program1
 build_property.ProjectDir = C:\c_sharp_projects\solutions\program1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+<<<<<<< HEAD
 =======
 is_global = true
 build_property.RootNamespace = program1
@@ -11,3 +15,5 @@ build_property.ProjectDir = C:\c_sharp_projects\solutions\program1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 >>>>>>> 86ddc95c0e47f5baa89b640e385490d776a331cc
+=======
+>>>>>>> pramod

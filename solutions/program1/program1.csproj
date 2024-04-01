@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> pramod
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
@@ -7,6 +10,7 @@
   </PropertyGroup>
 
 </Project>
+<<<<<<< HEAD
 =======
 <Project Sdk="Microsoft.NET.Sdk">
 
@@ -17,3 +21,5 @@
 
 </Project>
 >>>>>>> 86ddc95c0e47f5baa89b640e385490d776a331cc
+=======
+>>>>>>> pramod

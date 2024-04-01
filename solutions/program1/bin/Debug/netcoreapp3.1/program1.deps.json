@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> pramod
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v3.1",
@@ -21,6 +24,7 @@
       "sha512": ""
     }
   }
+<<<<<<< HEAD
 =======
 {
   "runtimeTarget": {
@@ -45,4 +49,6 @@
     }
   }
 >>>>>>> 86ddc95c0e47f5baa89b640e385490d776a331cc
+=======
+>>>>>>> pramod
 }

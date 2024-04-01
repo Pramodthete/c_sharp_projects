@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> pramod
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
@@ -6,6 +9,7 @@
       "C:\\Users\\DELL\\.nuget\\packages"
     ]
   }
+<<<<<<< HEAD
 =======
 {
   "runtimeOptions": {
@@ -15,4 +19,6 @@
     ]
   }
 >>>>>>> 86ddc95c0e47f5baa89b640e385490d776a331cc
+=======
+>>>>>>> pramod
 }

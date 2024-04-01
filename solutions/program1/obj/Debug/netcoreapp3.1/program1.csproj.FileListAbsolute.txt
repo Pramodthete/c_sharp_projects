@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> pramod
 C:\c_sharp_projects\solutions\program1\bin\Debug\netcoreapp3.1\program1.exe
 C:\c_sharp_projects\solutions\program1\bin\Debug\netcoreapp3.1\program1.deps.json
 C:\c_sharp_projects\solutions\program1\bin\Debug\netcoreapp3.1\program1.runtimeconfig.json
@@ -13,6 +16,7 @@ C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.sourceli
 C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.dll
 C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.pdb
 C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.genruntimeconfig.cache
+<<<<<<< HEAD
 =======
 C:\c_sharp_projects\solutions\program1\bin\Debug\netcoreapp3.1\program1.exe
 C:\c_sharp_projects\solutions\program1\bin\Debug\netcoreapp3.1\program1.deps.json
@@ -29,3 +33,5 @@ C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.dll
 C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.pdb
 C:\c_sharp_projects\solutions\program1\obj\Debug\netcoreapp3.1\program1.genruntimeconfig.cache
 >>>>>>> 86ddc95c0e47f5baa89b640e385490d776a331cc
+=======
+>>>>>>> pramod

@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> pramod
 ﻿using System;
 // this is the System namespace we are using predefined functionality 
 
@@ -16,7 +19,11 @@ namespace program1
             Console.Write(", I am a diffrent print statement but in same line\n");
 
             //we can also pass expression it will execute with BODMAS rule
+<<<<<<< HEAD
             Console.WriteLine("exp. : "+ (3 + 5 * 2));
+=======
+            Console.WriteLine(3 + 5 * 2);
+>>>>>>> pramod
 
             // This is a comment which is sigle line comment
             // comments are only for developers to make code more readable
@@ -27,6 +34,7 @@ namespace program1
         }
     }
 }
+<<<<<<< HEAD
 
 =======
 ﻿using System;
@@ -59,3 +67,5 @@ namespace program1
 }
 
 >>>>>>> 86ddc95c0e47f5baa89b640e385490d776a331cc
+=======
+>>>>>>> pramod
