@@ -1,0 +1,14 @@
+C:\c_sharp_projects\solutions\custom_methods\bin\Debug\netcoreapp3.1\custom_methods.exe
+C:\c_sharp_projects\solutions\custom_methods\bin\Debug\netcoreapp3.1\custom_methods.deps.json
+C:\c_sharp_projects\solutions\custom_methods\bin\Debug\netcoreapp3.1\custom_methods.runtimeconfig.json
+C:\c_sharp_projects\solutions\custom_methods\bin\Debug\netcoreapp3.1\custom_methods.runtimeconfig.dev.json
+C:\c_sharp_projects\solutions\custom_methods\bin\Debug\netcoreapp3.1\custom_methods.dll
+C:\c_sharp_projects\solutions\custom_methods\bin\Debug\netcoreapp3.1\custom_methods.pdb
+C:\c_sharp_projects\solutions\custom_methods\obj\Debug\netcoreapp3.1\custom_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_projects\solutions\custom_methods\obj\Debug\netcoreapp3.1\custom_methods.AssemblyInfoInputs.cache
+C:\c_sharp_projects\solutions\custom_methods\obj\Debug\netcoreapp3.1\custom_methods.AssemblyInfo.cs
+C:\c_sharp_projects\solutions\custom_methods\obj\Debug\netcoreapp3.1\custom_methods.csproj.CoreCompileInputs.cache
+C:\c_sharp_projects\solutions\custom_methods\obj\Debug\netcoreapp3.1\custom_methods.sourcelink.json
+C:\c_sharp_projects\solutions\custom_methods\obj\Debug\netcoreapp3.1\custom_methods.dll
+C:\c_sharp_projects\solutions\custom_methods\obj\Debug\netcoreapp3.1\custom_methods.pdb
+C:\c_sharp_projects\solutions\custom_methods\obj\Debug\netcoreapp3.1\custom_methods.genruntimeconfig.cache

@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "operations", "operations\op
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methods", "methods\methods.csproj", "{69227D5F-3049-4F78-8B38-C92376265B35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loops", "loops\loops.csproj", "{944B8EF2-FBFE-4B00-AB33-0F2472969119}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loops", "loops\loops.csproj", "{944B8EF2-FBFE-4B00-AB33-0F2472969119}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array", "array\array.csproj", "{10774595-D215-4856-B272-D15CA6399451}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "array", "array\array.csproj", "{10774595-D215-4856-B272-D15CA6399451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "custom_methods", "custom_methods\custom_methods.csproj", "{74168D42-D529-4329-9AB7-E536FF56F354}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{10774595-D215-4856-B272-D15CA6399451}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10774595-D215-4856-B272-D15CA6399451}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10774595-D215-4856-B272-D15CA6399451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74168D42-D529-4329-9AB7-E536FF56F354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74168D42-D529-4329-9AB7-E536FF56F354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74168D42-D529-4329-9AB7-E536FF56F354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74168D42-D529-4329-9AB7-E536FF56F354}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
