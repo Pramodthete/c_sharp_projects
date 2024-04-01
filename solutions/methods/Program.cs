@@ -34,12 +34,37 @@ namespace methods
             // make it Upper case
             Console.WriteLine("Upper: " + myString.ToUpper());
 
-
+            // concating string 2 methods
             string firstName = "John ";
             string lastName = "Doe";
             string name1 = string.Concat(firstName, lastName);
             string name2 = firstName + lastName;
             Console.WriteLine(name1+" \n"+name2);
+
+            //used interpolation
+            string fullname = $"Interpolation : Full Name is {firstName} {lastName}";
+            Console.WriteLine(fullname);
+
+            // print single character of string
+            string myStr = "Hello";
+            Console.WriteLine(myStr[0]);
+
+            //used indexOf method
+            int index = myStr.IndexOf('e');
+            Console.WriteLine(index);
+
+
+            // Full name
+            string name = "John Doe";
+
+            // Location of the letter D
+            int charPos = name.IndexOf("D");
+
+            // Get last name
+            string lName = name.Substring(charPos);
+
+            // Print the result
+            Console.WriteLine(lName);
 
         }
     }
