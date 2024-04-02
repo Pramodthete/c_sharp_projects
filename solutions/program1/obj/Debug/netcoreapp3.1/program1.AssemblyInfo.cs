@@ -19,9 +19,13 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e89398100b6f7399c5ef1c94dc4f11e6c11253e")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d971f9344317c84452fcf8a3f67e40b7417aca0")]
+>>>>>>> pramod
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a20a51dc9b7089285f1856248c0471d91a1e0ef")]
 >>>>>>> pramod
 [assembly: System.Reflection.AssemblyProductAttribute("program1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program1")]
