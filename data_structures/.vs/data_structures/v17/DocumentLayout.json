@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\c_sharp_projects\\data_structures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C50D1A2B-80F7-469E-9A00-EDCEBA85EB65}|array\\array.csproj|c:\\c_sharp_projects\\data_structures\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C50D1A2B-80F7-469E-9A00-EDCEBA85EB65}|array\\array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39FB1D0A-C259-4299-A2D0-6AA5B2CF4424}|queue\\queue.csproj|c:\\c_sharp_projects\\data_structures\\queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FB1D0A-C259-4299-A2D0-6AA5B2CF4424}|queue\\queue.csproj|solutionrelative:queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B1D331-DFFF-413F-AF78-4DB1000C35AC}|stack\\stack.csproj|c:\\c_sharp_projects\\data_structures\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B1D331-DFFF-413F-AF78-4DB1000C35AC}|stack\\stack.csproj|solutionrelative:stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\c_sharp_projects\\data_structures\\array\\Program.cs",
-              "RelativeDocumentMoniker": "array\\Program.cs",
-              "ToolTip": "C:\\c_sharp_projects\\data_structures\\array\\Program.cs",
-              "RelativeToolTip": "array\\Program.cs",
-              "ViewState": "AQIAABIAAACA+P////8PwBUAAAAAAAAA",
+              "DocumentMoniker": "C:\\c_sharp_projects\\data_structures\\queue\\Program.cs",
+              "RelativeDocumentMoniker": "queue\\Program.cs",
+              "ToolTip": "C:\\c_sharp_projects\\data_structures\\queue\\Program.cs",
+              "RelativeToolTip": "queue\\Program.cs",
+              "ViewState": "AQIAACgAAACAWGZmZiYhwDQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T06:34:14.954Z",
+              "WhenOpened": "2024-04-02T05:06:46.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c_sharp_projects\\data_structures\\stack\\Program.cs",
+              "RelativeDocumentMoniker": "stack\\Program.cs",
+              "ToolTip": "C:\\c_sharp_projects\\data_structures\\stack\\Program.cs",
+              "RelativeToolTip": "stack\\Program.cs",
+              "ViewState": "AQIAAEgAAADAJjMzM3MmwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:10:45.356Z",
               "EditorCaption": ""
             }
           ]

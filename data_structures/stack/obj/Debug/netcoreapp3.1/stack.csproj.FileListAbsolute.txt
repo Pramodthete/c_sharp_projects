@@ -1,0 +1,14 @@
+C:\c_sharp_projects\data_structures\stack\bin\Debug\netcoreapp3.1\stack.exe
+C:\c_sharp_projects\data_structures\stack\bin\Debug\netcoreapp3.1\stack.deps.json
+C:\c_sharp_projects\data_structures\stack\bin\Debug\netcoreapp3.1\stack.runtimeconfig.json
+C:\c_sharp_projects\data_structures\stack\bin\Debug\netcoreapp3.1\stack.runtimeconfig.dev.json
+C:\c_sharp_projects\data_structures\stack\bin\Debug\netcoreapp3.1\stack.dll
+C:\c_sharp_projects\data_structures\stack\bin\Debug\netcoreapp3.1\stack.pdb
+C:\c_sharp_projects\data_structures\stack\obj\Debug\netcoreapp3.1\stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_projects\data_structures\stack\obj\Debug\netcoreapp3.1\stack.AssemblyInfoInputs.cache
+C:\c_sharp_projects\data_structures\stack\obj\Debug\netcoreapp3.1\stack.AssemblyInfo.cs
+C:\c_sharp_projects\data_structures\stack\obj\Debug\netcoreapp3.1\stack.csproj.CoreCompileInputs.cache
+C:\c_sharp_projects\data_structures\stack\obj\Debug\netcoreapp3.1\stack.sourcelink.json
+C:\c_sharp_projects\data_structures\stack\obj\Debug\netcoreapp3.1\stack.dll
+C:\c_sharp_projects\data_structures\stack\obj\Debug\netcoreapp3.1\stack.pdb
+C:\c_sharp_projects\data_structures\stack\obj\Debug\netcoreapp3.1\stack.genruntimeconfig.cache
