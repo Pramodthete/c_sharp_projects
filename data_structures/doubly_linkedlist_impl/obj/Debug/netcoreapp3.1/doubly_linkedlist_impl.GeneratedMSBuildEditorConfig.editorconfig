@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = doubly_linkedlist_impl
+build_property.ProjectDir = C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,14 @@
+C:\c_sharp_projects\data_structures\arraylist\bin\Debug\netcoreapp3.1\arraylist.exe
+C:\c_sharp_projects\data_structures\arraylist\bin\Debug\netcoreapp3.1\arraylist.deps.json
+C:\c_sharp_projects\data_structures\arraylist\bin\Debug\netcoreapp3.1\arraylist.runtimeconfig.json
+C:\c_sharp_projects\data_structures\arraylist\bin\Debug\netcoreapp3.1\arraylist.runtimeconfig.dev.json
+C:\c_sharp_projects\data_structures\arraylist\bin\Debug\netcoreapp3.1\arraylist.dll
+C:\c_sharp_projects\data_structures\arraylist\bin\Debug\netcoreapp3.1\arraylist.pdb
+C:\c_sharp_projects\data_structures\arraylist\obj\Debug\netcoreapp3.1\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_projects\data_structures\arraylist\obj\Debug\netcoreapp3.1\arraylist.AssemblyInfoInputs.cache
+C:\c_sharp_projects\data_structures\arraylist\obj\Debug\netcoreapp3.1\arraylist.AssemblyInfo.cs
+C:\c_sharp_projects\data_structures\arraylist\obj\Debug\netcoreapp3.1\arraylist.csproj.CoreCompileInputs.cache
+C:\c_sharp_projects\data_structures\arraylist\obj\Debug\netcoreapp3.1\arraylist.sourcelink.json
+C:\c_sharp_projects\data_structures\arraylist\obj\Debug\netcoreapp3.1\arraylist.dll
+C:\c_sharp_projects\data_structures\arraylist\obj\Debug\netcoreapp3.1\arraylist.pdb
+C:\c_sharp_projects\data_structures\arraylist\obj\Debug\netcoreapp3.1\arraylist.genruntimeconfig.cache

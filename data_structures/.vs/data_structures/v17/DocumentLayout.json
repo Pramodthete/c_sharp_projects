@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\c_sharp_projects\\data_structures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADA4D687-41B2-44AC-981D-316CAC87DF06}|linkedlist\\linkedlist.csproj|c:\\c_sharp_projects\\data_structures\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADA4D687-41B2-44AC-981D-316CAC87DF06}|linkedlist\\linkedlist.csproj|solutionrelative:linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A62807B-A6F8-4C75-AABA-9D120C55FDEE}|priorityqueue\\priorityqueue.csproj|c:\\c_sharp_projects\\data_structures\\priorityqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A62807B-A6F8-4C75-AABA-9D120C55FDEE}|priorityqueue\\priorityqueue.csproj|solutionrelative:priorityqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12E8092-C853-42B2-A732-7DFC77C80AE2}|binary_search_tree\\binary_search_tree.csproj|c:\\c_sharp_projects\\data_structures\\binary_search_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12E8092-C853-42B2-A732-7DFC77C80AE2}|binary_search_tree\\binary_search_tree.csproj|solutionrelative:binary_search_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3322CFD2-FA89-49B9-92BD-1C60E642A529}|hashset\\hashset.csproj|c:\\c_sharp_projects\\data_structures\\hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3322CFD2-FA89-49B9-92BD-1C60E642A529}|hashset\\hashset.csproj|solutionrelative:hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09681C8C-3BAB-4E64-B137-A58CC7E111A5}|sortedlist\\sortedlist.csproj|c:\\c_sharp_projects\\data_structures\\sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09681C8C-3BAB-4E64-B137-A58CC7E111A5}|sortedlist\\sortedlist.csproj|solutionrelative:sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FE7598-588F-43A4-AC1B-0F3423D52D77}|hash_table\\hash_table.csproj|c:\\c_sharp_projects\\data_structures\\hash_table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FE7598-588F-43A4-AC1B-0F3423D52D77}|hash_table\\hash_table.csproj|solutionrelative:hash_table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B866F18-AF12-4C48-824B-4FCAFA5B8ADE}|Dictionary\\Dictionary.csproj|c:\\c_sharp_projects\\data_structures\\dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B866F18-AF12-4C48-824B-4FCAFA5B8ADE}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6FE7598-588F-43A4-AC1B-0F3423D52D77}|hash_table\\hash_table.csproj|c:\\c_sharp_projects\\data_structures\\hash_table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6FE7598-588F-43A4-AC1B-0F3423D52D77}|hash_table\\hash_table.csproj|solutionrelative:hash_table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9642D915-33BD-41CB-ACDE-7BE7FEDCA36A}|list\\list.csproj|c:\\c_sharp_projects\\data_structures\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642D915-33BD-41CB-ACDE-7BE7FEDCA36A}|list\\list.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31046DC7-1871-48B0-9D34-3E55965C3A5D}|arraylist\\arraylist.csproj|c:\\c_sharp_projects\\data_structures\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31046DC7-1871-48B0-9D34-3E55965C3A5D}|arraylist\\arraylist.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE785EB-59E5-4EC7-AE00-C8FA0DC574ED}|doubly_linkedlist_impl\\doubly_linkedlist_impl.csproj|c:\\c_sharp_projects\\data_structures\\doubly_linkedlist_impl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE785EB-59E5-4EC7-AE00-C8FA0DC574ED}|doubly_linkedlist_impl\\doubly_linkedlist_impl.csproj|solutionrelative:doubly_linkedlist_impl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA4D687-41B2-44AC-981D-316CAC87DF06}|linkedlist\\linkedlist.csproj|c:\\c_sharp_projects\\data_structures\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA4D687-41B2-44AC-981D-316CAC87DF06}|linkedlist\\linkedlist.csproj|solutionrelative:linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +50,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c_sharp_projects\\data_structures\\binary_search_tree\\Program.cs",
+              "RelativeDocumentMoniker": "binary_search_tree\\Program.cs",
+              "ToolTip": "C:\\c_sharp_projects\\data_structures\\binary_search_tree\\Program.cs",
+              "RelativeToolTip": "binary_search_tree\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:35:06.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c_sharp_projects\\data_structures\\priorityqueue\\Program.cs",
+              "RelativeDocumentMoniker": "priorityqueue\\Program.cs",
+              "ToolTip": "C:\\c_sharp_projects\\data_structures\\priorityqueue\\Program.cs",
+              "RelativeToolTip": "priorityqueue\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:15:25.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c_sharp_projects\\data_structures\\hashset\\Program.cs",
+              "RelativeDocumentMoniker": "hashset\\Program.cs",
+              "ToolTip": "C:\\c_sharp_projects\\data_structures\\hashset\\Program.cs",
+              "RelativeToolTip": "hashset\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:56:50.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c_sharp_projects\\data_structures\\sortedlist\\Program.cs",
+              "RelativeDocumentMoniker": "sortedlist\\Program.cs",
+              "ToolTip": "C:\\c_sharp_projects\\data_structures\\sortedlist\\Program.cs",
+              "RelativeToolTip": "sortedlist\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:35:03.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c_sharp_projects\\data_structures\\list\\Program.cs",
+              "RelativeDocumentMoniker": "list\\Program.cs",
+              "ToolTip": "C:\\c_sharp_projects\\data_structures\\list\\Program.cs",
+              "RelativeToolTip": "list\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:22:12.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c_sharp_projects\\data_structures\\arraylist\\Program.cs",
+              "RelativeDocumentMoniker": "arraylist\\Program.cs",
+              "ToolTip": "C:\\c_sharp_projects\\data_structures\\arraylist\\Program.cs",
+              "RelativeToolTip": "arraylist\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:09:27.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c_sharp_projects\\data_structures\\doubly_linkedlist_impl\\Program.cs",
+              "RelativeDocumentMoniker": "doubly_linkedlist_impl\\Program.cs",
+              "ToolTip": "C:\\c_sharp_projects\\data_structures\\doubly_linkedlist_impl\\Program.cs",
+              "RelativeToolTip": "doubly_linkedlist_impl\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T04:56:19.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\c_sharp_projects\\data_structures\\linkedlist\\Program.cs",
               "RelativeDocumentMoniker": "linkedlist\\Program.cs",
               "ToolTip": "C:\\c_sharp_projects\\data_structures\\linkedlist\\Program.cs",
               "RelativeToolTip": "linkedlist\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBoAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T17:08:37.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\c_sharp_projects\\data_structures\\Dictionary\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary\\Program.cs",
               "ToolTip": "C:\\c_sharp_projects\\data_structures\\Dictionary\\Program.cs",
               "RelativeToolTip": "Dictionary\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:24:20.189Z"
+              "WhenOpened": "2024-04-02T15:24:20.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\c_sharp_projects\\data_structures\\hash_table\\Program.cs",
               "RelativeDocumentMoniker": "hash_table\\Program.cs",
               "ToolTip": "C:\\c_sharp_projects\\data_structures\\hash_table\\Program.cs",
               "RelativeToolTip": "hash_table\\Program.cs",
-              "ViewState": "AQIAAAwAAACwNTMzMzMrwBMAAAANAAAA",
+              "ViewState": "AQIAABIAAADANTMzMzMrwBkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T10:49:02.988Z"
+              "WhenOpened": "2024-04-02T10:49:02.988Z",
+              "EditorCaption": ""
             }
           ]
         }

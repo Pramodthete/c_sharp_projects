@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = binary_search_tree
+build_property.ProjectDir = C:\c_sharp_projects\data_structures\binary_search_tree\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,14 @@
+C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\bin\Debug\netcoreapp3.1\doubly_linkedlist_impl.exe
+C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\bin\Debug\netcoreapp3.1\doubly_linkedlist_impl.deps.json
+C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\bin\Debug\netcoreapp3.1\doubly_linkedlist_impl.runtimeconfig.json
+C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\bin\Debug\netcoreapp3.1\doubly_linkedlist_impl.runtimeconfig.dev.json
+C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\bin\Debug\netcoreapp3.1\doubly_linkedlist_impl.dll
+C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\bin\Debug\netcoreapp3.1\doubly_linkedlist_impl.pdb
+C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\obj\Debug\netcoreapp3.1\doubly_linkedlist_impl.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\obj\Debug\netcoreapp3.1\doubly_linkedlist_impl.AssemblyInfoInputs.cache
+C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\obj\Debug\netcoreapp3.1\doubly_linkedlist_impl.AssemblyInfo.cs
+C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\obj\Debug\netcoreapp3.1\doubly_linkedlist_impl.csproj.CoreCompileInputs.cache
+C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\obj\Debug\netcoreapp3.1\doubly_linkedlist_impl.sourcelink.json
+C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\obj\Debug\netcoreapp3.1\doubly_linkedlist_impl.dll
+C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\obj\Debug\netcoreapp3.1\doubly_linkedlist_impl.pdb
+C:\c_sharp_projects\data_structures\doubly_linkedlist_impl\obj\Debug\netcoreapp3.1\doubly_linkedlist_impl.genruntimeconfig.cache

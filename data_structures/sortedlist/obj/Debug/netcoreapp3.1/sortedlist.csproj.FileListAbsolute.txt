@@ -1,0 +1,14 @@
+C:\c_sharp_projects\data_structures\sortedlist\bin\Debug\netcoreapp3.1\sortedlist.exe
+C:\c_sharp_projects\data_structures\sortedlist\bin\Debug\netcoreapp3.1\sortedlist.deps.json
+C:\c_sharp_projects\data_structures\sortedlist\bin\Debug\netcoreapp3.1\sortedlist.runtimeconfig.json
+C:\c_sharp_projects\data_structures\sortedlist\bin\Debug\netcoreapp3.1\sortedlist.runtimeconfig.dev.json
+C:\c_sharp_projects\data_structures\sortedlist\bin\Debug\netcoreapp3.1\sortedlist.dll
+C:\c_sharp_projects\data_structures\sortedlist\bin\Debug\netcoreapp3.1\sortedlist.pdb
+C:\c_sharp_projects\data_structures\sortedlist\obj\Debug\netcoreapp3.1\sortedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_projects\data_structures\sortedlist\obj\Debug\netcoreapp3.1\sortedlist.AssemblyInfoInputs.cache
+C:\c_sharp_projects\data_structures\sortedlist\obj\Debug\netcoreapp3.1\sortedlist.AssemblyInfo.cs
+C:\c_sharp_projects\data_structures\sortedlist\obj\Debug\netcoreapp3.1\sortedlist.csproj.CoreCompileInputs.cache
+C:\c_sharp_projects\data_structures\sortedlist\obj\Debug\netcoreapp3.1\sortedlist.sourcelink.json
+C:\c_sharp_projects\data_structures\sortedlist\obj\Debug\netcoreapp3.1\sortedlist.dll
+C:\c_sharp_projects\data_structures\sortedlist\obj\Debug\netcoreapp3.1\sortedlist.pdb
+C:\c_sharp_projects\data_structures\sortedlist\obj\Debug\netcoreapp3.1\sortedlist.genruntimeconfig.cache

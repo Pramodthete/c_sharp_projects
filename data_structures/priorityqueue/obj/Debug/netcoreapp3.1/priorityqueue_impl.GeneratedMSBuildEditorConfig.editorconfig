@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = priorityqueue_impl
+build_property.ProjectDir = C:\c_sharp_projects\data_structures\priorityqueue\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

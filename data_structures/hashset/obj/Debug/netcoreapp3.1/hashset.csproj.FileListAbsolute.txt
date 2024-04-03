@@ -1,0 +1,14 @@
+C:\c_sharp_projects\data_structures\hashset\bin\Debug\netcoreapp3.1\hashset.exe
+C:\c_sharp_projects\data_structures\hashset\bin\Debug\netcoreapp3.1\hashset.deps.json
+C:\c_sharp_projects\data_structures\hashset\bin\Debug\netcoreapp3.1\hashset.runtimeconfig.json
+C:\c_sharp_projects\data_structures\hashset\bin\Debug\netcoreapp3.1\hashset.runtimeconfig.dev.json
+C:\c_sharp_projects\data_structures\hashset\bin\Debug\netcoreapp3.1\hashset.dll
+C:\c_sharp_projects\data_structures\hashset\bin\Debug\netcoreapp3.1\hashset.pdb
+C:\c_sharp_projects\data_structures\hashset\obj\Debug\netcoreapp3.1\hashset.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_projects\data_structures\hashset\obj\Debug\netcoreapp3.1\hashset.AssemblyInfoInputs.cache
+C:\c_sharp_projects\data_structures\hashset\obj\Debug\netcoreapp3.1\hashset.AssemblyInfo.cs
+C:\c_sharp_projects\data_structures\hashset\obj\Debug\netcoreapp3.1\hashset.csproj.CoreCompileInputs.cache
+C:\c_sharp_projects\data_structures\hashset\obj\Debug\netcoreapp3.1\hashset.sourcelink.json
+C:\c_sharp_projects\data_structures\hashset\obj\Debug\netcoreapp3.1\hashset.dll
+C:\c_sharp_projects\data_structures\hashset\obj\Debug\netcoreapp3.1\hashset.pdb
+C:\c_sharp_projects\data_structures\hashset\obj\Debug\netcoreapp3.1\hashset.genruntimeconfig.cache

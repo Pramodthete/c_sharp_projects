@@ -1,0 +1,14 @@
+C:\c_sharp_projects\data_structures\priorityqueue\bin\Debug\netcoreapp3.1\priorityqueue.exe
+C:\c_sharp_projects\data_structures\priorityqueue\bin\Debug\netcoreapp3.1\priorityqueue.deps.json
+C:\c_sharp_projects\data_structures\priorityqueue\bin\Debug\netcoreapp3.1\priorityqueue.runtimeconfig.json
+C:\c_sharp_projects\data_structures\priorityqueue\bin\Debug\netcoreapp3.1\priorityqueue.runtimeconfig.dev.json
+C:\c_sharp_projects\data_structures\priorityqueue\bin\Debug\netcoreapp3.1\priorityqueue.dll
+C:\c_sharp_projects\data_structures\priorityqueue\bin\Debug\netcoreapp3.1\priorityqueue.pdb
+C:\c_sharp_projects\data_structures\priorityqueue\obj\Debug\netcoreapp3.1\priorityqueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_projects\data_structures\priorityqueue\obj\Debug\netcoreapp3.1\priorityqueue.AssemblyInfoInputs.cache
+C:\c_sharp_projects\data_structures\priorityqueue\obj\Debug\netcoreapp3.1\priorityqueue.AssemblyInfo.cs
+C:\c_sharp_projects\data_structures\priorityqueue\obj\Debug\netcoreapp3.1\priorityqueue.csproj.CoreCompileInputs.cache
+C:\c_sharp_projects\data_structures\priorityqueue\obj\Debug\netcoreapp3.1\priorityqueue.sourcelink.json
+C:\c_sharp_projects\data_structures\priorityqueue\obj\Debug\netcoreapp3.1\priorityqueue.dll
+C:\c_sharp_projects\data_structures\priorityqueue\obj\Debug\netcoreapp3.1\priorityqueue.pdb
+C:\c_sharp_projects\data_structures\priorityqueue\obj\Debug\netcoreapp3.1\priorityqueue.genruntimeconfig.cache
